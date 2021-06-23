@@ -1,0 +1,63 @@
+body{
+
+background-image:linear-gradient(180deg,#0061A8,white);
+  color: #04009A;
+
+}
+h3{
+  text-align: center;
+  font-size: 20px;
+}
+h1{
+  text-align: center;
+  font-size: 30px;
+  margin-top: 100px;
+  color: white;
+}
+
+
+.card{
+  height:350px;
+  width:350px;
+  align-items: center;
+  margin-top: 100px;
+  margin-right: 90%;
+  margin-left: 10px;
+
+  padding-left: 30px;
+  padding-right: 30px;
+
+}
+
+.euro{
+  font-size: 20px;
+  padding-right: 5px;
+
+
+}
+.money{
+  font-size: 50px;
+}
+.price{
+width: 350px;
+background-color: #E1F1DD;
+text-align: center;
+font-family:'Benne', serif;
+
+}
+.buttons{
+background-color: #5C33F6;
+border-radius:20px;
+size: 60%;
+border:1px solid #eee;
+width: 90%;
+margin-left: 15px;
+margin-right: 15px;
+}
+.card:hover{
+  transform: scale(1.15);
+  box-shadow: 0 50px 90px rgba(0, 0, 0, .12), 0 4px 8px rgba(0,0,0,.06);
+}
+.list{
+  margin-left: 50px;
+}
